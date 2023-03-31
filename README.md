@@ -1,7 +1,7 @@
 # Game-development-kariyeri
-#Oyun Geliştirme Nedir?
+# Oyun Geliştirme Nedir?
 
-##Programlama
+## Programlama
 
 Oyun Geliştirme, oyun yaratma sanatıdır ve bir oyunun tasarımını, geliştirilmesini ve piyasaya sürülmesini açıklar. Konsept oluşturma, tasarım, oluşturma, test etme ve yayınlamayı içerebilir. Bir oyun yaratırken oyun mekaniği, ödüller, oyuncu katılımı ve seviye tasarımı üzerine düşünmek önemlidir.
 Bir oyun geliştiricisi, bir programcı, ses tasarımcısı, sanatçı, tasarımcı veya sektörde bulunan diğer birçok rol olabilir.
@@ -16,7 +16,7 @@ Bu, Construct, Game Maker, Unity ve Unreal gibi oyun motorlarının geliştirild
 Game Maker ve Construct gibi bazı durumlarda, önceden hazırlanmış işlevlerin miktarı o kadar büyüktür ki, önceden programlama becerisine sahip olmayan insanlar sıfırdan bir oyun oluşturabilir, sahneyi gerçekten genişletir ve oyun geliştirmeyi neredeyse herkes için erişilebilir hale getirir.
 
 
-#Oyun sektöründeki roller
+# Oyun sektöründeki roller
 
 •	Game programming
 
@@ -269,40 +269,40 @@ Game Maker ve Construct gibi bazı durumlarda, önceden hazırlanmış işlevler
 
 
 
-##Oyun tasarımlarında kullanılan en popüler programlama dilleri:
+## Oyun tasarımlarında kullanılan en popüler programlama dilleri:
 
 
-#C++:
+# C++:
 
 C++ öğrenmesi zor ama size getirisi çok büyük olan bir dildir. Bu dil ile günümüzdeki birçok popüler oyun gibi video oyunlarının programlamasını yapabilirsiniz. Tek bir programlama dili üzerine odaklanmak istiyorsanız C++ bunun için en uygun aday. Çünkü diğer dilleri öğrenmeniz çok daha kolay olacaktır. League of Legends, Counter-Strike, World of Warcraft ve Doom 3 gibi popüler oyunlar bu dille yazıldı. 
 
 
-#C#:
+# C#:
 
 Unity gibi oyun motorlarını kullanacak oyun tasarımcıları için C# öğrenilmesi gereken diller arasındadır. C++ ile C# arasındaki temel fark ise C#’ı öğrenilmesi daha kolay ve Java karışımı olmasıdır. Ancak C++’a göre yapabilecekleriniz çok daha sınırlı. Bu nedenle önce C++ öğrenirseniz, zaten C# ve sonrasında Java öğrenmeniz çok daha kolay olacaktır. NASCAR Heat 3, C# ile yapılan oyunlardan sadece biri.
 
 
-#Java:
+# Java:
 
 Java sadece oyun programlama için değil aklınıza gelebilecek her şey için kullanılan bir dil. C++ ile olan benzerliğinden dolayı ikisini aynı anda öğrenmek hiç de zor olmayacaktır. Minecraft, Assassin's Creed: Altaïr's Chronicles gibi popüler oyunlar Java kullanılarak yapıldı. Hatta PES 2009 ve PES 2010 da Java dilinde yazıldı. Yani Java ile yapabileceklerinizin sınırı yok.
 
 
-#CSS3:
+# CSS3:
 
 CSS3 kodları temel olarak sayfalarda gördüğünüz bir yazının ne renk olacağını, bir görselin ne kadar büyük olacağı veya imleci bir nesnenin üzerinde tuttuğunuzda neler olacağı gibi birçok konuda kodlar yazabileceğiniz bir dil.
 
 
-#JavaScrpit:
+# JavaScrpit:
 
 Bir web sayfasında meydana gelen olayların neredeyse tamamını yazabileceğiniz bir kodlama dili. Sadece web tasarım için değil aynı zamanda web tabanlı oyun tasarımı için de kullanılıyor. Örneğin kullanıcı bir butona bastığında ne olacak, imleci hareketini takip etme ve daha bir sürü olayı JavaScrpit ile yazabilirsiniz. Angry Birds, The Wizard ve HexGL gibi popüler oyunlar HTML5, CSS3 ve JavaScrpit ile yazıldı.
 
 
-#SQL:
+# SQL:
 
 SQL, yazılım dünyasında back-end denilen arka tarafta, yani sunucuda işlemler yapmanızı sağlayan bir dil. Örneğin oyunlarda hesap oluşturuyoruz, bu hesapla giriş yapıyoruz ve kayıtlarımız tutuluyor. İşte bu tarz arka plandaki sunucu işlemlerin tamamı SQL sayesinde yapılıyor. Oyunlar için de çok önemli bir yeri var. 
 
 
-#Popüler oyun motorları:
+# Popüler oyun motorları:
 
 •	Unity 
 •	Unreal Engine
@@ -315,9 +315,9 @@ SQL, yazılım dünyasında back-end denilen arka tarafta, yani sunucuda işleml
 •	MonoGame
 
 
-##İnceleyebileceğiniz bazı kaynaklar:
+## İnceleyebileceğiniz bazı kaynaklar:
 
-#C# :
+# C# :
 
 https://app.patika.dev/courses/visual-studio-code-kullanimi
 
@@ -336,13 +336,13 @@ https://www.youtube.com/@Brackeys
 
 
 
-#Java : 
+# Java : 
 
 https://www.youtube.com/watch?v=-tLJr7fAads&list=PLIHume2cwmHcGWl_h31xBh1zSlqmxfFRQ
 
 https://www.youtube.com/watch?v=tnHYuOdzmj0&list=PL20Zn-5nPIPHvLPq5xJTTImOd0qeNd9rW
 
-#C++ : 
+# C++ : 
 
 https://www.youtube.com/watch?v=o9CsUaJ-TUs&list=PLn58Z8DIFBQoc50Xx_kE5PCU1zXpOVsQV
 
@@ -352,7 +352,7 @@ https://www.youtube.com/watch?v=2EAb6Jga9Rg&list=PLi1BmHvgBkxKNgl_7rZlhX-NmCKKEp
 
 
 
-#GIT :
+# GIT :
 
 https://app.patika.dev/courses/git
 
@@ -365,7 +365,7 @@ https://www.youtube.com/watch?v=-kYHuFtCX7A&list=PLv1CRNciwsrcFph511nrrdAbY5EYV8
 
 
 
-#Unity :
+# Unity :
 
 https://app.patika.dev/paths/unity-learn-patikasi
 
@@ -381,14 +381,14 @@ https://www.youtube.com/@Brackeys
 
 
 
-#Unreal Engine :
+# Unreal Engine :
 
 https://www.youtube.com/watch?v=bUk-8uRoJSs&list=PLRx4texzcj29BrRaxnP4SMKA_Ya-0JprU
 
 https://www.youtube.com/watch?v=duWfx3SCjuk&list=PLkCCyxQKr1dk3BgRsZWlCMAOx1Gpb_dc0
 
 
-#Blender :
+# Blender :
 
 https://www.youtube.com/watch?v=Pi7fKfgb_t0&list=PLkQYE3VrwEm3JUJcdAmD-0ndEpBoJBA4u
 
@@ -399,7 +399,7 @@ https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdW
 https://www.youtube.com/@FlippedNormals
 
 
-#Bunların yanı sıra akademi ya da bootcamp olarak düzenlenen 3-6 aylık eğitimlere de katılabilirsiniz:
+# Bunların yanı sıra akademi ya da bootcamp olarak düzenlenen 3-6 aylık eğitimlere de katılabilirsiniz:
 
 
 Oyun ve uygulama akademisi-Unity ve C#
