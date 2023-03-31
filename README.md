@@ -1,4 +1,4 @@
-# Game-development-kariyeri
+
 # Oyun Geliştirme Nedir?
 
 ## Programlama
