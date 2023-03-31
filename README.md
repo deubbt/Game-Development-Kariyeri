@@ -19,228 +19,253 @@ Game Maker ve Construct gibi bazı durumlarda, önceden hazırlanmış işlevler
 Oyun sektöründeki roller
 
 •	Game programming
-	AI 
-	Engine
-	GamePlay
-	Grapichs
-	Network
-	Physica
-	Tools
-	UI
+
+-	AI 
+-	Engine
+-	GamePlay
+-	Grapichs
+-	Network
+-	Physica
+-	Tools
+-	UI
 
 
 
 •	Game design
-	Direction
-	Economy
-	Interaction
-	Level
-	Quest
-	Systmes
-	UI
-	UX
+
+-Direction
+-	Economy
+-	Interaction
+-	Level
+-	Quest
+-	Systmes
+-	UI
+-	UX
 
 
 •	Game prodaction
-	Executive
-	Live Operations
-	Preject Management
-	Publishing
-	Release Management
-	Storyboarding
-	Studio Management
+
+- Executive
+-	Live Operations
+-	Preject Management
+-	Publishing
+-	Release Management
+-	Storyboarding
+-	Studio Management
 
 
 •	Art
-	Concept
-	Environment
-	Model
-	Technical
-	Texture
-	UA
-	VFX
+
+-	Concept
+-	Environment
+-	Model
+-	Technical
+-	Texture
+-	UA
+-	VFX
 
 
 •	Animation
-	Cinematics
-	Generalist
-	Motion Capture
-	Particle
-	Programmer
-	Technical
+
+- Cinematics
+-	Generalist
+-	Motion Capture
+-	Particle
+-	Programmer
+-	Technical
 
 
 •	Audio
-	Cinematics
-	Design
-	Direction
-	Engineering
-	Programmer
-	QA
-	Voice
+
+-	Cinematics
+-	Design
+-	Direction
+-	Engineering
+-	Programmer
+-	QA
+-	Voice
 
 
 •	Quality Assurance
-	Analysis
-	Automotion
-	Competibilty
-	Compliance
-	Engineering
-	Lead
-	Performance
-	Platform
-	SDET
-	Testing
+
+-	Analysis
+-	Automotion
+-	Competibilty
+-	Compliance
+-	Engineering
+-	Lead
+-	Performance
+-	Platform
+-	SDET
+-	Testing
 
 
 •	Software& Web
-	App
-	Backhand
-	Full-Stack
-	Frontand
-	Web Designer
-	Web Devoloper
+
+-	App
+-	Backhand
+-	Full-Stack
+-	Frontand
+-	Web Designer
+-	Web Devoloper
 
 
 •	Management
-	Creative Director
-	Department
-	Operations
-	Product
-	Program
-	Project
-	Strategy
+
+-	Creative Director
+-	Department
+-	Operations
+-	Product
+-	Program
+-	Project
+-	Strategy
 
 
 •	Marketing
-	Brand
-	Community
-	Content
-	Digital
-	Ecommerce
-	Influencer
-	Public Relations
-	Product
-	User Acquisition
-	Social Media
+
+-	Brand
+-	Community
+-	Content
+-	Digital
+-	Ecommerce
+-	Influencer
+-	Public Relations
+-	Product
+-	User Acquisition
+-	Social Media
 
 
 •	Content
-	Cinemaography
-	Game Capture
-	Graphic Design
-	Motio Graphic Design
-	Post-Production
-	Video Editing
+
+-	Cinemaography
+-	Game Capture
+-	Graphic Design
+-	Motio Graphic Design
+-	Post-Production
+-	Video Editing
 
 
 •	IT
-	DevOps
-	Networking
-	Security Engineering
-	System Administration
-	Tech Support
+
+-	DevOps
+-	Networking
+-	Security Engineering
+-	System Administration
+-	Tech Support
 
 
 •	Data
-	Administraiton
-	Analysis
-	Engineering
-	Science
+
+-	Administraiton
+-	Analysis
+-	Engineering
+-	Science
 
 
 •	Research
-	Academic
-	Consumer
-	Market
-	UK
+
+- Academic
+-	Consumer
+-	Market
+-	UK
 
 
 •	Commercial
-	Account Management
-	Ad Operations
-	Business Development
-	Game Monetization
-	Partnerships
-	Revenue Strategist
+
+-	Account Management
+-	Ad Operations
+-	Business Development
+-	Game Monetization
+-	Partnerships
+-	Revenue Strategist
 
 
 •	Finance
-	Accounting
-	Analysis
-	Payroll
-	Procurement
-	Tax
+
+-	Accounting
+-	Analysis
+-	Payroll
+-	Procurement
+-	Tax
 
 
 •	Legal
-	Compliance
-	Employment
-	Licensing
+
+- Compliance
+-	Employment
+-	Licensing
 
 
 •	Human Resources
-	Business Partner
-	Compensation & Benefits
-	Employer Branding
-	Health & Safety
-	Recruiter
+
+-	Business Partner
+-	Compensation & Benefits
+-	Employer Branding
+-	Health & Safety
+-	Recruiter
 
 
 •	Education
-	Program Development
-	Teaching
+
+-	Program Development
+-	Teaching
 
 
 •	Media
-	Editor
-	Journalist
-	Photographer
-	Videographer
+
+-	Editor
+-	Journalist
+-	Photographer
+-	Videographer
 
 
 •	Customer service
-	Customer Support
-	Developer Support
-	Technical Support
+
+-	Customer Support
+-	Developer Support
+-	Technical Support
 
 
 •	Administravite
-	Administrative Support
-	Executive Assistant
-	Facalities Support
-	Front of House
+
+-	Administrative Support
+-	Executive Assistant
+-	Facalities Support
+-	Front of House
 
 
 •	Competition
-	Admin
-	Analyst
-	Coach
-	Manager
-	Physical Trainer
-	Player
-	Scout
+
+-	Admin
+-	Analyst
+-	Coach
+-	Manager
+-	Physical Trainer
+-	Player
+-	Scout
 
 
 •	Events
-	AV
-	Audio, Lighting, Set / Stage Desing, Electrics
-	Hospitality
-	In-game Observer
-	Licensing
-	Logistics
-	Player Manager
-	Talent Manager
+
+-	AV
+-	Audio, Lighting, Set / Stage Desing, Electrics
+-	Hospitality
+-	In-game Observer
+-	Licensing
+-	Logistics
+-	Player Manager
+-	Talent Manager
 
 
 •	Talents
-	Agent
-	Analyst
-	Caster
-	Content Creator
-	Host
-	Interviewer
-	Streamer
+
+-	Agent
+-	Analyst
+-	Caster
+-	Content Creator
+-	Host
+-	Interviewer
+-	Streamer
 
 
 
