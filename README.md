@@ -399,7 +399,11 @@ https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdW
 https://www.youtube.com/@FlippedNormals
 
 
-Bunların yanı sıra akademi ya da bootcamp olarak düzenlenen 3-6 aylık eğitimlere de katılabilirsiniz:
+#Bunların yanı sıra akademi ya da bootcamp olarak düzenlenen 3-6 aylık eğitimlere de katılabilirsiniz:
+
+
 Oyun ve uygulama akademisi-Unity ve C#
+
 Level up Academy-Unity ve C#
+
 Oygem akademi- Oyun sektörü ve dijital girişimcilik
