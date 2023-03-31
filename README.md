@@ -33,7 +33,7 @@ Oyun sektöründeki roller
 
 •	Game design
 
--Direction
+- Direction
 -	Economy
 -	Interaction
 -	Level
